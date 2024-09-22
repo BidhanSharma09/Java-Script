@@ -1,0 +1,28 @@
+destructors
+default value
+spread operator
+rest operator
+error
+error handling
+
+
+setTimeout
+object 
+    convert array to object
+    convert object co array
+
+Node 
+    call stack
+        call stack run code inside it
+    settimeout(fun, 2000)
+        when this code runs it push fun to memory and attach timer to it.
+
+synchronous code  
+    code in vs-code
+asynchronous code 
+    code in the background
+event loop
+    it is an observer which constantly observe callstack 
+    
+to run: 
+ nodemon .\7.Null\isNaN.js
